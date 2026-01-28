@@ -1,0 +1,58 @@
+{
+  "trending_topics": [
+    {
+      "date": "2026-01-28",
+      "title": "Gaganyaan-2: India's Historic Moon Bound Announcement",
+      "scenes": [
+        {
+          "text": "Today, January 28, 2026, ISRO Chairman announced from Sriharikota, Andhra Pradesh, that Gaganyaan-2 is set for a lunar flyby.",
+          "search": "ISRO Sriharikota launch pad cinematic"
+        },
+        {
+          "text": "The mission marks a milestone as India prepares to send three Vyomanauts, including a woman pilot, into deep space for the first time.",
+          "search": "Indian astronauts training facility"
+        },
+        {
+          "text": "This mission signifies India's growing dominance in the global space race. Tune in with us for more such news as we track this journey!",
+          "search": "India flag on moon animation"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "title": "6G Breakthrough in Bengaluru: A Global Speed Record",
+      "scenes": [
+        {
+          "text": "In a major tech breakthrough today in Bengaluru, India's Silicon Valley, the national 6G testbed achieved speeds of 1 Terabit per second.",
+          "search": "Bangalore tech park evening drone"
+        },
+        {
+          "text": "The Ministry of Electronics reported this speed is 100 times faster than 5G, promising a future of instant holographic communication.",
+          "search": "holographic communication future tech"
+        },
+        {
+          "text": "India is now leading the global 6G patent race. Tune in with us for more such news on the digital revolution!",
+          "search": "digital connectivity india map"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "title": "Viral Rescue at Mudumalai: Nature's Heartwarming Moment",
+      "scenes": [
+        {
+          "text": "Reports from the Mudumalai Tiger Reserve in Tamil Nadu today highlight a viral rescue of an orphaned elephant calf by forest rangers.",
+          "search": "Mudumalai Tiger Reserve forest lush"
+        },
+        {
+          "text": "Local authorities are using new AI-tracking collars to monitor the calf's integration into a new herd to ensure its long-term survival.",
+          "search": "baby elephant with herd india"
+        },
+        {
+          "text": "This success story shows the power of technology in wildlife conservation. Tune in with us for more such news from the wild!",
+          "search": "indian elephant walking cinematic"
+        }
+      ]
+    }
+  ]
+}

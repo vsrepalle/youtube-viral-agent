@@ -1,0 +1,77 @@
+# SECRETS - NEVER COMMIT THESE
+google_service_account.json
+client_secrets.json
+youtube_token.json
+token.json
+*.json.secret
+credentials.json
+api_keys.json
+.env
+.env.local
+.env.*.local
+ECHO is off.
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+ECHO is off.
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+ECHO is off.
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+ECHO is off.
+# Output files
+quiz_videos/
+temp/
+output/
+downloads/
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mov
+ECHO is off.
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+ECHO is off.
+# Project specific
+*.exe
+*.onnx
+*.bin
+*.model
+*.zip
+*.rar
+*.7z
